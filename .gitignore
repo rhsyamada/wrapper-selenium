@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+*.jar
+*.log*
+/target/
+/bin/
+.DS_Store
